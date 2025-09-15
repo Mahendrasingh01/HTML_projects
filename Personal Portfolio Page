@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recipe Page</title>
+</head>
+<body>
+<h1>How to Make Masala tea</h1>
+<p>Masala tea is a flavorful and aromatic Indian tea made by brewing black tea with a mixture of spices, milk, and sugar. Here's a simple recipe to make masala tea at home:</p>
+
+<h2>Ingredients:</h2>
+<ul>
+  <li>2 cups water</li>
+  <li>1 cup milk (whole or any preferred type)</li>
+  <li>2 teaspoons black tea leaves (or 2 tea bags)</li>
+  <li>1-2 tablespoons sugar (adjust to taste)</li>
+  <li>1-inch piece of fresh ginger, grated</li>
+  <li>4-5 green cardamom pods, crushed</li>
+  <li>4-5 whole cloves</li>
+  <li>1 cinnamon stick</li>
+  <li>Optional: a pinch of black pepper or fennel seeds for extra flavor</li>
+</ul>
+
+<h2>Staps:</h2>
+<ol>
+  <li>Boil Water and Spices: In a saucepan, bring the water to a boil. Add the grated ginger, crushed cardamom pods, cloves, cinnamon stick, and any optional spices you like. Let it simmer for about 5-7 minutes to allow the spices to infuse the water.</li>
+  <li>Add Tea Leaves: Add the black tea leaves (or tea bags) to the boiling water and let it steep for 2-3 minutes. Adjust the steeping time based on how strong you want your tea.</li>
+  <li>Add Milk and Sugar: Pour in the milk and add sugar to taste. Stir well and bring the mixture back to a gentle boil. Let it simmer for another 2-3 minutes, allowing the flavors to meld together.</li>
+  <li>Strain and Serve: Remove the saucepan from heat and strain the tea into cups using a fine mesh strainer to remove the tea leaves and spices. Serve hot.</li>
+</ol>
+
+<h2>Notes:</h2>
+<ul>
+  <li>Feel free to adjust the spice levels according to your taste preferences.</li>
+  <li>You can also experiment with different types of tea, such as green tea or herbal tea, for variations of this recipe.</li>
+</ul>
+
+<h2>Enjoy your homemade masala tea!</h2>
+
+<h2>Final_look:</h2>
+<img src="masala_tea.jpg" alt="Masala Tea" width="300">
+
+<footer>
+  <p>&copy; Recipe by Mahendra Singh</p>
+</footer>
+
+</body>
+</html>
